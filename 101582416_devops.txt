@@ -1,1 +1,2 @@
 The course introduces CI/CD pipelines and automation tools.
+Students learn industry-standard DevOps practices.
