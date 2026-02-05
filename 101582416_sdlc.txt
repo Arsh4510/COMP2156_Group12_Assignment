@@ -1,1 +1,2 @@
 DevOps improves collaboration across all SDLC stages.
+Automation helps reduce human errors in deployments.
