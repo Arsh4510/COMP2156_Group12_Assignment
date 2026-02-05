@@ -1,2 +1,9 @@
-The course introduces CI/CD pipelines and automation tools.
-Students learn industry-standard DevOps practices.
+COMP 2156 – DevOps for System Administration
+
+COMP 2156 is a DevOps course focused on system administration and automation.
+The course teaches students how development and operations work together.
+
+Students learn Git version control, branching, and collaboration using GitHub.
+The course also covers CI/CD pipelines, automation tools, and monitoring concepts.
+
+COMP 2156 helps students build practical DevOps skills required in modern IT environments.
