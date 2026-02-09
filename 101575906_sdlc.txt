@@ -10,3 +10,5 @@ Devops helps deliver software quickly and reliably.
 It supports continuous improvement throughout the SDLC.
 Learning Devops is important for modern software development.
 It helps teams work together efficiently.
+Devops improves communication between development and operations teams.
+This helps reduce delays in the software process.
