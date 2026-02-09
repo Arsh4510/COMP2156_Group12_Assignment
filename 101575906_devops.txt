@@ -1,0 +1,10 @@
+COMP 2156 is a DevOps course at George Brown College.
+This course helps students understand DevOps tools and practices.
+It teaches how development and operations teams work together.
+
+In COMP 2156, students learn about Git, GitHub, and version control.
+The course also introduces continuous integration and automation.
+Students practice using CI tools like GitHub Actions.
+
+This course improves problem solving and teamwork skills.
+It prepares students for real world DevOps and IT jobs.
