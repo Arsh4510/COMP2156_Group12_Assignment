@@ -9,3 +9,5 @@ Students practice using CI tools like GitHub Actions.
 This course improves problem solving and teamwork skills.
 It prepares students for real world DevOps and IT jobs.
 It introduces students to DevOps concepts and tools.
+The course teaches how development and operations teams work together.
+Students learn basic automation and version control.
