@@ -12,3 +12,5 @@ Learning Devops is important for modern software development.
 It helps teams work together efficiently.
 Devops improves communication between development and operations teams.
 This helps reduce delays in the software process.
+Automation in DevOps helps test and deploy software faster.
+It also reduces human errors.
