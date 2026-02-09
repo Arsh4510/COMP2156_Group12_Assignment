@@ -1,1 +1,2 @@
 The course teaches CI/CD, Git, Docker, and automation.
+Students gain practical experience through labs and assignment.
