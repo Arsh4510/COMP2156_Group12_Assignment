@@ -1,2 +1,3 @@
 DevOps improves collaboration in the software development lifecycle.
 It enables faster delivery and continous feedback.
+DevOps reduces deployment failures and improves stability.
