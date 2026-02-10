@@ -1,0 +1,6 @@
+DevOps plays an important role in the Software Development Life Cycle.
+It improves collaboration between development and operations teams,
+reduces deployment time, and increases software reliability.
+Learning DevOps helps organizations deliver software faster and with
+higher quality.
+
