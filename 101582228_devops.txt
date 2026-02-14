@@ -10,3 +10,6 @@ practices that help automate testing and deployment processes.
 
 Students learn version control using Git and GitHub to manage source code
 and collaborate effectively in development teams.
+
+The course also introduces CI/CD pipelines and automation tools used in
+modern cloud-based environments.
