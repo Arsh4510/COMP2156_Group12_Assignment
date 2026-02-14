@@ -5,3 +5,6 @@ software development and IT operations. This course focuses on essential tools a
  Students learn how to manage repositories, handle merge conflicts, and collaborate effectively in
  teams to streamline software delivery and infrastructure management.
 
+The course also introduces continuous integration tools and best
+practices that help automate testing and deployment processes.
+
