@@ -12,3 +12,5 @@ improve collaboration, and deliver software updates more frequently.
 DevOps helps reduce the gap between development and operations teams,
 leading to faster deployment cycles.
 
+Automation in DevOps ensures continuous testing, monitoring, and
+improvement throughout the software lifecycle.
