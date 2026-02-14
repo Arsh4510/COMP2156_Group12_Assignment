@@ -8,3 +8,5 @@ software development and IT operations. This course focuses on essential tools a
 The course also introduces continuous integration tools and best
 practices that help automate testing and deployment processes.
 
+Students learn version control using Git and GitHub to manage source code
+and collaborate effectively in development teams.
