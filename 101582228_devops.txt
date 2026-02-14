@@ -13,3 +13,7 @@ and collaborate effectively in development teams.
 
 The course also introduces CI/CD pipelines and automation tools used in
 modern cloud-based environments.
+
+Understanding DevOps principles prepares students for roles such as
+DevOps Engineer, System Administrator, and Cloud Engineer.
+
