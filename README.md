@@ -14,7 +14,7 @@
 | Student ID | Name |
 |------------|------|
 | 101582416 | Arshdeep Singh |
-| XXXXXXXX | Member 2 |
+| 101585474 | Amritpal Kaur |
 | XXXXXXXX | Member 3 |
 | XXXXXXXX | Member 4 |
 | XXXXXXXX | Member 5 |
@@ -32,7 +32,7 @@ Each member created their own branch using:
 STUDENTID-Name
 
 101582416-Arshdeep
-XXXXXXXXX-Member
+101585474-Amritpal
 XXXXXXXXX-Member
 XXXXXXXXX-Member
 XXXXXXXXX-Member
@@ -49,9 +49,9 @@ Each member created the following three files:
 - 101582416_devops.txt
 - 101582416_sdlc.txt
 
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
+- 101585474_gb.txt
+- 101585474_devops.txt
+- 101585474_sdlc.txt
 
 - StudentID_gb.txt
 - StudentID_devops.txt
