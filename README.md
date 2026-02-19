@@ -15,7 +15,7 @@
 |------------|------|
 | 101582416 | Arshdeep Singh |
 | 101585474 | Amritpal Kaur |
-| XXXXXXXX | Member 3 |
+| 101575906 | Grsimranpreet|
 | XXXXXXXX | Member 4 |
 | XXXXXXXX | Member 5 |
 | XXXXXXXX | Member 6 |
@@ -33,7 +33,7 @@ STUDENTID-Name
 
 101582416-Arshdeep
 101585474-Amritpal
-XXXXXXXXX-Member
+101575906 -Gursimranpreet
 XXXXXXXXX-Member
 XXXXXXXXX-Member
 XXXXXXXXX-Member
@@ -53,9 +53,9 @@ Each member created the following three files:
 - 101585474_devops.txt
 - 101585474_sdlc.txt
 
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
+- 101575906_gb.txt
+- 101575906_devops.txt
+- 101575906_sdlc.txt
 
 - StudentID_gb.txt
 - StudentID_devops.txt
