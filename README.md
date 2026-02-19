@@ -14,11 +14,11 @@
 | Student ID | Name |
 |------------|------|
 | 101582416 | Arshdeep Singh |
-| XXXXXXXX | Member 2 |
-| XXXXXXXX | Member 3 |
-| XXXXXXXX | Member 4 |
-| XXXXXXXX | Member 5 |
-| XXXXXXXX | Member 6 |
+| 101585474 | Amritpal |
+| 101575906 | Gursimranpreet |
+| 101580420 | Gurleen |
+| 101582228 | Jasneer |
+
 
 ### Repository Details
 - Repository Name: COMP2156_Group12_Assignment
@@ -32,11 +32,11 @@ Each member created their own branch using:
 STUDENTID-Name
 
 101582416-Arshdeep
-XXXXXXXXX-Member
-XXXXXXXXX-Member
-XXXXXXXXX-Member
-XXXXXXXXX-Member
-XXXXXXXXX-Member
+101585474-Amritpal
+101575906-Gursimranpreet
+101580420-Gurleen
+101582228-Jasneer
+
 
 
 
@@ -45,30 +45,12 @@ XXXXXXXXX-Member
 
 Each member created the following three files:
 
-- 101582416_gb.txt
-- 101582416_devops.txt
-- 101582416_sdlc.txt
 
 - StudentID_gb.txt
 - StudentID_devops.txt
 - StudentID_sdlc.txt
 
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
-
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
-
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
-
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
-   
+ 
 
 
 
