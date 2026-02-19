@@ -50,9 +50,6 @@ Each member created the following three files:
 - StudentID_devops.txt
 - StudentID_sdlc.txt
 
- 
-
-
 
    ### Continuous Integration
 
