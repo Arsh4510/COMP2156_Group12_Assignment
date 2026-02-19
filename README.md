@@ -15,7 +15,7 @@
 |------------|------|
 | 101582416 | Arshdeep Singh |
 | 101585474 | Amritpal Kaur |
-| 101575906 | Gursimranpreet Kaur |
+| 101575906 | Grsimranpreet|
 | XXXXXXXX | Member 4 |
 | XXXXXXXX | Member 5 |
 | XXXXXXXX | Member 6 |
@@ -33,7 +33,7 @@ STUDENTID-Name
 
 101582416-Arshdeep
 101585474-Amritpal
-101575906-Gursimranpreet
+101575906 -Gursimranpreet
 XXXXXXXXX-Member
 XXXXXXXXX-Member
 XXXXXXXXX-Member
