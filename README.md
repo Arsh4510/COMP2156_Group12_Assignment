@@ -15,7 +15,7 @@
 |------------|------|
 | 101582416 | Arshdeep Singh |
 | 101585474 | Amritpal Kaur |
-| 101575906 | Grsimranpreet|
+| 101575906 | Gursimranpreet|
 | XXXXXXXX | Member 4 |
 | XXXXXXXX | Member 5 |
 | XXXXXXXX | Member 6 |
