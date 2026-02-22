@@ -14,11 +14,11 @@
 | Student ID | Name |
 |------------|------|
 | 101582416 | Arshdeep Singh |
-| 101585474 | Amritpal Kaur |
-| 101575906 | Gursimranpreet|
-| XXXXXXXX | Member 4 |
-| XXXXXXXX | Member 5 |
-| XXXXXXXX | Member 6 |
+| 101585474 | Amritpal kaur  |
+| 101575906 | Gursimranpreet |
+| 101580420 | Gurleen kaur   |
+| 101582228 | Jasneer Singh  |
+| 101564160 | Anil Kumar     |
 
 ### Repository Details
 - Repository Name: COMP2156_Group12_Assignment
@@ -33,10 +33,10 @@ STUDENTID-Name
 
 101582416-Arshdeep
 101585474-Amritpal
-101575906 -Gursimranpreet
-XXXXXXXXX-Member
-XXXXXXXXX-Member
-XXXXXXXXX-Member      
+101575906-Gursimranpreet
+101580420-Gurleen
+101582228-Jasneer
+101564160-AnilKumar
 
 
 
@@ -57,19 +57,17 @@ Each member created the following three files:
 - 101575906_devops.txt
 - 101575906_sdlc.txt
 
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
+- 101580420_gb.txt
+- 101580420_devops.txt
+- 101580420_sdlc.txt
 
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
+- 101582228_gb.txt
+- 101582228_devops.txt
+- 101582228_sdlc.txt
 
-- StudentID_gb.txt
-- StudentID_devops.txt
-- StudentID_sdlc.txt
-   
-
+- 101564160_gb.txt
+- 101564160_devops.txt
+- 101564160_sdlc.txt
 
 
    ### Continuous Integration
